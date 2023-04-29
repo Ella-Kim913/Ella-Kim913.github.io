@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    background-size: cover;
+    color : white
+
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    font-size: large;
+}
+
+.hidden {
+    display : none;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    text-align: center;
+}
+
+.weather_right{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    color: beige;
+}
+
+.quotes_style{
+    text-align: center;
+    font-size: x-small;
+}
+
+.input_style{
+    text-align: center;
+}
