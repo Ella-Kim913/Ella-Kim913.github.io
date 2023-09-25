@@ -1,11 +1,11 @@
 const images = [
-    "0.jpeg",
-    "1.jpeg",
-    "2.jpeg"
+    "0.jpg",
+    "1.png",
+    "2.jpg"
 ];
 
 
-const chosenImage = images[Math.floor(Math.random()*images.length)]
+const chosenImage = images[Math.floor(Math.random() * images.length)]
 
 const backgroundImage = document.createElement('img')
 
